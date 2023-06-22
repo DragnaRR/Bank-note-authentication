@@ -28,14 +28,14 @@ There are total 1372 records(rows) in the dataset.
 The aim of testing is to velidate the performance of the trained model
 ROC curve is a good way to measure for precision of this binary classification model
 
-![AUC_ROC](https://github.com/DragnaRR/Bank-note-authentication/blob/main/bank%20note%20authentication/screenshot/auc_roc.PNG)
+![AUC ROC](https://github.com/DragnaRR/Bank-note-authentication/assets/95096810/c42efff7-7a5b-4ba2-9593-d9cd08cf707a)
 
 The area under curve of the model is 0.991 (approx~1), which means that the model predicts well.
 
 In the confusion matrix, the rows represent the target classes and the columns the output classes for the testing target data set. 
 The diagonal cells in each table show the number of correctly classified cases, and the off-diagonal cells show the misclassified instances. 
 
-![confusion_matrix](https://github.com/DragnaRR/Bank-note-authentication/blob/main/bank%20note%20authentication/screenshot/confusion_matrix.PNG)
+![confusion matrix](https://github.com/DragnaRR/Bank-note-authentication/assets/95096810/58cb8d0c-4765-4669-8c6d-f754dbd8abc3)
 
 The following table contains the elements of the confusion matrix.
 
@@ -55,21 +55,21 @@ Precision, Recall and F1 score are the performance matrix used to evaluate class
 - Recall is essentially the ratio of true positives to all the positives in ground truth.
 - The F1-score metric uses a combination of precision and recall. In fact, the F1 score is the harmonic mean of the precision and recall.
 
-![performance_matrix](https://github.com/DragnaRR/Bank-note-authentication/blob/main/bank%20note%20authentication/screenshot/performance_matrx.PNG)
+![performance matrx](https://github.com/DragnaRR/Bank-note-authentication/assets/95096810/5509b268-3ad1-400b-9f52-4ab3d8d4b62b)
 
 
 ## Screenshots of Swagger API
 Swagger helps users build, document, test and consume RESTful web services. It can be used with both a top-down and bottom-up API development approach.
 
-![Swagger API](https://github.com/DragnaRR/Bank-note-authentication/blob/main/bank%20note%20authentication/screenshot/swagger1.PNG)
+![swagger API](https://github.com/DragnaRR/Bank-note-authentication/assets/95096810/d75dfeb8-3599-4f7d-b596-e6b37cd3cbe5)
 
-![Swagger API](https://github.com/DragnaRR/Bank-note-authentication/blob/main/bank%20note%20authentication/screenshot/swagger2.PNG)
+![swagger API](https://github.com/DragnaRR/Bank-note-authentication/assets/95096810/c51f95ed-2405-4723-84d8-b3cf8179ec08)
 
-![Swagger API](https://github.com/DragnaRR/Bank-note-authentication/blob/main/bank%20note%20authentication/screenshot/swagger3.PNG)
+![Swagger API](https://github.com/DragnaRR/Bank-note-authentication/assets/95096810/347775f9-e901-4fe6-8b9d-6f88e8aaa005)
 
 
 
 ## Postman
 Postman is an API platform for building and using APIs
 
-![postman](https://github.com/DragnaRR/Bank-note-authentication/blob/main/bank%20note%20authentication/screenshot/postman.PNG)
+![postman](https://github.com/DragnaRR/Bank-note-authentication/assets/95096810/901c2ad6-7355-40ab-b3a0-e68c180b033e)
